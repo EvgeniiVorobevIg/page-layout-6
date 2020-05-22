@@ -270,7 +270,7 @@ body {
 
 @media (max-width: 970px) {
   .block__menu-list {
-    padding: 0 10px;
+    padding: 10px;
   }
 }
 
@@ -317,7 +317,7 @@ body {
 
 @media (max-width: 770px) {
   .block__menu-list li a {
-    font-size: 50px;
+    font-size: 35px;
   }
 }
 
@@ -355,7 +355,7 @@ body {
             flex-direction: column;
     width: 100%;
     height: 600px;
-    padding: 10px;
+    padding: 27px;
     line-height: 100px;
     z-index: 3;
     -webkit-transition: all 0.3s ease 0s;
